@@ -1,0 +1,50 @@
+
+
+<html>
+<head>
+<title> 
+game</title>
+</head>
+<body>
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<body>
+
+<div class="w3-container w3-Aqua">
+  
+<h1 style="font-family:verdana; color:orange;"> <b> WOWGAMES </b> <a href="https://www.google.com"> <img src="fblogo.png" style="width:50px;height:50px"; align= "right"> </a> </h1>
+
+</div>
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<body>
+
+<div class="w3-container">
+  <div class="w3-container w3-margin">
+  
+</div>
+  <div class="w3-display-container w3-orange" style="height:3000px;">
+    <div class="w3-display-topleft">Top Left</div>
+    <div class="w3-display-topright">Top Right</div>
+    <div class="w3-display-bottomleft">Bottom Left</div>
+    <div class="w3-display-bottomright">Bottom Right</div>
+    <div class="w3-display-left">Left</div>
+    <div class="w3-display-right">Right</div>
+    <div class="w3-display-middle">Middle</div>
+    <div class="w3-display-topmiddle w3-hide-small">Top Middle</div>
+    <div class="w3-display-bottommiddle w3-hide-small">Bottom Middle</div>
+  </div>
+</div>
+
+</body>
+</body>
+</html>
+
+
+
+
+
+
+<link rel="icon" href="lib/images/favicon.ico">
